@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "My Very Own Pack",
+        "name": "N3V3RDIEGaming Texture Pack",
+        "uuid": "82c93358-bdb6-4fe8-b35f-dcdc62727f38",
+        "version": [1, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "The OFFICAL N3V3RDIEGaming Pack but it is in beta so feedback is needed",
+            "type": "resources",
+            "uuid": "edea5fb7-49b9-4786-8188-d315c1aa7de1",
+            "version": [1, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+Change Log for 1.0.0
+Blocks Changed in Texture Pack
+- diamond_ore.png
+- iron_ore.png
+- glass
+- bookshelf
+- all planks
+
+Items
+- all swords
+and more to come this is my first pack so feedback is needed
+
+
+Change Log for 1.0.1
+Updated pack_icon.png
+Updated manifest
+Deleted some folders that the pack didn't needed
